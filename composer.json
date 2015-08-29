@@ -1,5 +1,5 @@
 {
-	"name": "nette/robot-loader",
+	"name": "softwarestudio/moduler",
 	"description": "Nette RobotLoader: comfortable autoloading",
 	"homepage": "http://nette.org",
 	"license": ["BSD-3-Clause", "GPL-2.0", "GPL-3.0"],
