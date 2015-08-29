@@ -14,10 +14,7 @@
 		}
 	],
 	"require": {
-		"php": ">=5.5.0",
-		"nette/caching": "~2.2",
-		"nette/finder": "~2.3",
-		"nette/utils": "~2.2"
+		"php": ">=5.5.0"
 	},
 	"require-dev": {
 		"nette/tester": "~1.4"
